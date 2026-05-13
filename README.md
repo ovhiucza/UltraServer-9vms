@@ -60,11 +60,11 @@
 
 | 处理器 | 核心/线程 | 内存 | 存储 | 网络 | 月价 | 部署时间 | 购买 |
 |--------|-----------|------|------|------|------|----------|------|
-| Intel Xeon E3-1230 v6 | 4 核 / 8 线程 | 16GB DDR4 | 250GB SSD | 1Gbps 不限量 | **$34.95** | 24-48h |  [立即购买](https://9vms.com/) |
-| AMD Ryzen 7 5700G | 8 核 / 16 线程 | 64GB DDR4 | 1TB NVMe | 1Gbps 不限量 | **$49.95** | 24-48h |  [立即购买](https://9vms.com/) |
-| Intel Dual Xeon E5-2680 v4 @ 2.4GHz | 28 核 / 56 线程 | 128GB DDR4 | 2TB SSD | 1Gbps 不限量 | **$79.95** | 24-48h |  [立即购买](https://9vms.com/) |
-| Intel Dual Xeon Gold 6138 @ 2.0GHz | 40 核 / 80 线程 | 256GB DDR5 | 2TB NVMe U.2 | 1Gbps 不限量 | **$109.95** | 24-48h |  [立即购买](https://9vms.com/) |
-| AMD Ryzen 9 7950X | 16 核 / 32 线程 | 128GB DDR5 | 2TB NVMe Samsung 990 Pro | 1Gbps 不限量 | **$119.95** | 24-48h |  [立即购买](https://9vms.com/) |
+| Intel Xeon E3-1230 v6 | 4 核 / 8 线程 | 16GB DDR4 | 250GB SSD | 1Gbps 不限量 | **$49.95** | 24-48h |  [立即购买](https://9vms.com/) |
+| AMD Ryzen 7 5700G | 8 核 / 16 线程 | 64GB DDR4 | 1TB NVMe | 1Gbps 不限量 | **$199.95** | 24-48h |  [立即购买](https://9vms.com/) |
+| Intel Dual Xeon E5-2680 v4 @ 2.4GHz | 28 核 / 56 线程 | 128GB DDR4 | 2TB SSD | 1Gbps 不限量 | **$209.95** | 24-48h |  [立即购买](https://9vms.com/) |
+| Intel Dual Xeon Gold 6138 @ 2.0GHz | 40 核 / 80 线程 | 256GB DDR5 | 2TB NVMe U.2 | 1Gbps 不限量 | **$259.95** | 24-48h |  [立即购买](https://9vms.com/) |
+| AMD Ryzen 9 7950X | 16 核 / 32 线程 | 128GB DDR5 | 2TB NVMe Samsung 990 Pro | 1Gbps 不限量 | **$169.95** | 24-48h |  [立即购买](https://9vms.com/) |
 | AMD Ryzen 9 9950X | 16 核 / 32 线程 | 128GB DDR5 | 2TB NVMe | 1Gbps 不限量 | **$179.95** | 24-48h |  [立即购买](https://9vms.com/) |
 | AMD Threadripper 7960X | 24 核 / 48 线程 | 256GB DDR5 | 2TB NVMe Samsung EVO Plus | 1Gbps 不限量 | **$274.95** | 24-48h |  [立即购买](https://9vms.com/) |
 | AMD EPYC 9654 Genoa | 96 核 / 192 线程 | 512GB DDR5 ECC | 4TB NVMe Samsung Pro 990 | 1Gbps 不限量 | **$599.95** | 24-48h |  [立即购买](https://9vms.com/) |
